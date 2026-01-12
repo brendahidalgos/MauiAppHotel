@@ -46,7 +46,7 @@ Para testar o simulador de cálculo de diárias, siga as instruções de configu
 
 1.  **Clone o Repositório:**
     ```bash
-    git clone [https://github.com/brendahidalgos/NomeDoRepositorioHotel.git](https://github.com/brendahidalgos/NomeDoRepositorioHotel.git)
+    git clone [https://github.com/brendahidalgos/MauiApphotel.git](https://github.com/brendahidalgos/MauiAppHotel.git)
     ```
 2.  **Abra no Visual Studio:**
     * Abra o arquivo de solução (`.sln`) no Visual Studio.
@@ -67,4 +67,4 @@ Se tiver alguma dúvida ou sugestão, pode me chamar!
 
 ## ✍️ Autor
 
-* **@brendahidalgos** - Aluna do curso de Análise e Desenvolvimento de Sistemas.
+* **@brendahidalgos** - Aluna do curso técnico de Desenvolvimento de Sistemas.
